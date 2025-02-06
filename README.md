@@ -3,3 +3,4 @@
 [BIG O](BIGO.md)
 
 [LINKED LIST](LINKED-LIST.md)
+[QUEUE](QUEUE.md)
