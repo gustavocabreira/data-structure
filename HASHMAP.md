@@ -32,7 +32,7 @@ Armazenando os itens que colidem em uma [linked list](LINKED-LIST.md) dentro do 
 
 `key: 0` (com valor green: #008000) é mapeado para o índice 0 (0 % 5 = 0).
 
-`key: 1` (com valores yellow: #FFFF00 e purple: #800080) é mapeado para o índice 1 (1 % 5 = 1). Como há duas chaves para o mesmo índice, elas formam uma lista encadeada (<#1336807537307160637>) para resolver a colisão.
+`key: 1` (com valores yellow: #FFFF00 e purple: #800080) é mapeado para o índice 1 (1 % 5 = 1). Como há duas chaves para o mesmo índice, elas formam uma [linked list](LINKED-LIST.md) para resolver a colisão.
 
 `key: 2` (com valor red: #FF0000) é mapeado para o índice 2 (2 % 5 = 2).
 
