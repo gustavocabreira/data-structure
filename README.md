@@ -7,3 +7,5 @@
 [QUEUE](QUEUE.md)
 
 [HASHMAP](HASHMAP.md)
+
+[STACK](HASHMAP.md)
